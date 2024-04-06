@@ -28,3 +28,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakshatrrra&show_icons=true&locale=en" alt="nakshatrrra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatrrra&" alt="nakshatrrra" /></p>
+
+
+<h3 align="left">Lines Pushed:</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/github/commit-activity/y/nakshatrrra/nakshatrrra?label=Lines%20Pushed&style=flat-square" alt="Lines Pushed" />
+</p>
